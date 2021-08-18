@@ -1,0 +1,14 @@
+.todo-header {
+  margin: 5px 0;
+  align-items: center;
+}
+
+.todo-add {
+  display: inline-block;  
+  padding: 25px 5px 40px 5px;
+  vertical-align: top;
+}
+
+.todo-add-input {
+  height: 30px;
+}

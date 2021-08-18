@@ -1,0 +1,14 @@
+.todo-item {
+  display: flex;
+  align-items: center;
+}
+
+.todo-edit {
+  padding: 0 5px 0 10px;  
+}
+
+.task-done-style {
+  font-style: italic;
+  color: blue;
+  text-decoration: line-through;
+}
